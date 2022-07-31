@@ -11,3 +11,5 @@ Notifying when orders available+notices etc
 Merch store
 
 Today's menu
+
+In settings, "Prefernces" feature pops "coming soon"
