@@ -12,4 +12,4 @@ Merch store
 
 Today's menu
 
-In settings, "Prefernces" feature pops "coming soon"
+In settings, "Preferences" feature pops "coming soon"
